@@ -1,4 +1,4 @@
-# Criacao de uma DAO
+# Criaçao de uma DAO
 Resumo de uma criação de uma (Organização Autônoma Descentralizada)
 1. Definir o Propósito e o Modelo da DAO
 
