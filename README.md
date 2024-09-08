@@ -8,7 +8,9 @@ Modelo de Governança: Determine como os membros tomarão decisões, incluindo o
 
 2. Escolher uma Plataforma de Blockchain
 Ethereum: É a plataforma mais popular para DAOs, utilizando contratos inteligentes.
+
 [Solana](https://solana.com), [NEAR Protocol](https://near.org) ou [Polkadot](https://polkadot.network): Alternativas de blockchains que oferecem infraestrutura para contratos inteligentes.
+
 Ferramentas: Plataformas como[Aragon](https://aragon.org), [DAOstack](https://daostack.io), ou [Colony](https://colony.io) facilitam a criação de DAOs sem precisar codificar do zero.
 
 3. Criar um Contrato Inteligente
